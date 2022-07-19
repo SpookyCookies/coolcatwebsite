@@ -36,7 +36,7 @@
     100% {left: -1164px;}
 
 }
-@media  (max-width: 600px){
+@media (max-height: 400px){
     .container{
         top: 309px;
         left: 14px;
