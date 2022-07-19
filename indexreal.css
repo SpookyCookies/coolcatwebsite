@@ -348,42 +348,14 @@ body {
     html, body{
         margin: 0px;
         height: 100%;
-        overflow: hidden;
+        overflow-y: hidden;
+        overflow-x: hidden;
     }
-    .date {
-        top: 886px;
-        left: 1725px;
-        font-family: arial;
-        font-size: 35px;
-        position: absolute;
-    }
-    
-    .timeui {
-        top: 825px;
-        left: 1765px;
-        font-family: arial;
-        font-size: 50px;
-        position: absolute;
-    }
-    .timeui2{
-        top: 825px;
-        left: 1816px;
-        font-family: arial;
-        font-size: 50px;
-        position: absolute;
-    }
-    .timeui3{
-    
-        top: 819px;
-        left: 1797px;
-        font-family: arial;
-        font-size: 50px;
-        position: absolute;
-    }
+
     .black1 {
         top: 580px;
         left: 0px;
-        width: 375px;
+        width: 788px;
         height: 21px;
         position: absolute;
         overflow-x: hidden;
@@ -407,7 +379,7 @@ body {
     .toolbarbackground {
         top: 586px;
         left: 0px;
-        width: 375px;
+        width: 788px;
         height: 81px;
         position: absolute;
         overflow-x: hidden;
@@ -436,10 +408,10 @@ body {
     }
     
     .ErrormessageOne {
-        top: 222px;
-        left: 352px;
-        height: 132px;
-        width: 256px;
+        top: 52px;
+        left: 63px;
+        height: 86px;
+        width: 159px;
         overflow-x: hidden;
         overflow-y: hidden;
         position: absolute;
@@ -447,10 +419,10 @@ body {
     }
     
     .ErrormessageTwo {
-        top: 387px;
-        left: 101px;
-        height: 132px;
-        width: 256px;
+        top: 52px;
+        left: 106px;
+        height: 86px;
+        width: 159px;
         overflow-x: hidden;
         overflow-y: hidden;
         position: absolute;
@@ -459,10 +431,10 @@ body {
     
     
     .ErrormessageThree {
-        top: 222px;
-        left: 103px;
-        height: 132px;
-        width: 256px;
+        top: 53px;
+        left: 214px;
+        height: 86px;
+        width: 159px;
         overflow-x: hidden;
         overflow-y: hidden;
         position: absolute;
@@ -470,20 +442,20 @@ body {
     }
     
     .ErrormessageFour {
-        top: 40px;
-        left: 24px;
-        height: 132px;
-        width: 256px;
+        top: 219px;
+        left: 7px;
+        height: 86px;
+        width: 159px;
         overflow-x: hidden;
         overflow-y: hidden;
         position: fixed;
     }
     
     .ErrormessageFive {
-        top: 40px;
-        left: 509px;
-        height: 132px;
-        width: 256px;
+        top: 219px;
+        left: 209px;
+        height: 86px;
+        width: 159px;
         overflow-x: hidden;
         overflow-y: hidden;
         position: absolute;
@@ -491,10 +463,10 @@ body {
     }
     
     .ErrormessageSix {
-        top: 40px;
-        left: 277px;
-        height: 132px;
-        width: 256px;
+        top: 397px;
+        left: 82px;
+        height: 86px;
+        width: 159px;
         overflow-x: hidden;
         overflow-y: hidden;
         position: absolute;
@@ -618,8 +590,8 @@ body {
     }
     
     .button1 {
-        top: 315px;
-        left: 464px;
+        top: 109px;
+        left: 125px;
         font-size: 15px;
         font-family: "Comic Sans Ms";
         position: absolute;
@@ -629,8 +601,8 @@ body {
     }
     
     .button2 {
-        top: 476px;
-        left: 213px;
+        top: 108px;
+        left: 172px;
         font-size: 15px;
         font-family: "Comic Sans Ms";
         position: absolute;
@@ -640,8 +612,8 @@ body {
     }
     
     .button3 {
-        top: 311px;
-        left: 213px;
+        top: 111px;
+        left: 278px;
         font-size: 15px;
         font-family: "Comic Sans Ms";
         position: absolute;
@@ -652,8 +624,8 @@ body {
     }
     
     .button4 {
-        top: 127px;
-        left: 137px;
+        top: 275px;
+        left: 70px;
         font-size: 15px;
         font-family: "Comic Sans Ms";
         position: absolute;
@@ -663,8 +635,8 @@ body {
     }
     
     .button5 {
-        top: 129px;
-        left: 620px;
+        top: 275px;
+        left: 274px;
         font-size: 15px;
         font-family: "Comic Sans Ms";
         position: absolute;
@@ -674,12 +646,12 @@ body {
     }
     
     .button6 {
-        top: 130px;
-        left: 390px;
+        top: 456px;
+        left: 147px;
         font-size: 15px;
         font-family: "Comic Sans Ms";
         position: absolute;
-        height: 30px;
+        height: 25px;
         width: -27px;
     }
     
