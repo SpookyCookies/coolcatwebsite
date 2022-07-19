@@ -7,6 +7,7 @@
     background-color: gray;
     animation: transition-out2 10s;
     position: absolute;
+    overflow: hidden;
 }
 .container .progress-bar {
     top: 0px;
@@ -16,7 +17,7 @@
     background-color: aqua; 
     animation: progress-animation 5s forwards, transition-out 20s ;
     animation-timing-function: linear;
-
+    overflow: hidden;
 
 }
 
@@ -41,6 +42,7 @@
         left: 14px;
         width: 342px;
         height: 15px;
+        overflow: hidden;
         position: relative;
         background-color: gray;
         animation: transition-out2 10s;
@@ -54,6 +56,7 @@
         background-color: aqua; 
         animation: progress-animation 5s forwards, transition-out 20s ;
         animation-timing-function: linear;
+        overflow: hidden;
     }    
     @keyframes progress-animation {
         0% {width: 0%;}
