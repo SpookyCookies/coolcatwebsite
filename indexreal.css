@@ -353,9 +353,9 @@ body {
     }
 
     .black1 {
-        top: 580px;
+        top: 586px;
         left: 0px;
-        width: 788px;
+        width: 396px;
         height: 21px;
         position: absolute;
         overflow: hidden;
@@ -363,10 +363,10 @@ body {
     
     
     .background1 {
-        top: -274px;
+        top: 0px;
         left: 0px;
-        height: 854px;
-        width: 787px;
+        height: 582px;
+        width: 397px;
         background-image: url('hills.jpg');
         overflow-x: hidden;
         overflow-y: hidden;
@@ -378,8 +378,8 @@ body {
     .toolbarbackground {
         top: 586px;
         left: 0px;
-        width: 788px;
-        height: 81px;
+        width: 396px;
+        height: 121px;
         position: absolute;
         overflow-x: hidden;
         overflow-y: hidden;
