@@ -1,0 +1,13 @@
+.partyFrogOS{
+    top: 335px;
+    left: 706px;
+    font-family: 'Comic Sans Ms';
+    font-size: 45px;
+    position: absolute;
+    animation: transition-text 10s;
+}
+@keyframes transition-text{
+    0%{animation-delay: 5s;}
+    50%{left: 706px;}
+    100% {left: -1164px;}
+}
