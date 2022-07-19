@@ -344,7 +344,7 @@
 body {
     overflow: hidden;
 }
-@media  (max-width: 600px){
+@media (max-height: 400px){
     html, body{
         margin: 0px;
         height: 100%;
