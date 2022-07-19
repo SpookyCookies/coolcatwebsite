@@ -1,6 +1,6 @@
 .osLoad{
-    top: -1px;
-    left: -2px;
+    top: 0px;
+    left: 0px;
     height: 975px;
     width: 1925px;
     position: absolute;
@@ -13,4 +13,28 @@
     50%{top: -1px;}
     100%{top: -980px;}
 
+}
+@media only screen and (max-width: 600px){
+    html, body{
+        margin: 0px;
+        height: 100%;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+    .osLoad{
+        top: 0px;
+        left: 0px;
+        height: 668px;
+        width: 376px;
+        position: absolute;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        animation: transition-background 10s;
+    }
+    @keyframes transition-background {
+        0%{animation-delay: 5s;}
+        50%{top: 0px;}
+        100%{top: -800px;}
+    
+    }
 }
