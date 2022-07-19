@@ -14,7 +14,7 @@
     100%{top: -980px;}
 
 }
-@media only screen and (max-width: 600px){
+@media  (max-width: 600px){
     html, body{
         margin: 0px;
         height: 100%;
