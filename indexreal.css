@@ -409,7 +409,7 @@ body {
     
     .ErrormessageOne {
         top: 52px;
-        left: 63px;
+        left: 21px;
         height: 86px;
         width: 159px;
         overflow-x: hidden;
@@ -591,7 +591,7 @@ body {
     
     .button1 {
         top: 109px;
-        left: 125px;
+        left: 80px;
         font-size: 15px;
         font-family: "Comic Sans Ms";
         position: absolute;
@@ -658,8 +658,8 @@ body {
     
     
     .tip{
-        top: 937px;
-        left: 9px;
+        top: 636px;
+        left: 5px;
         font-family: 'Comic Sans Ms';
         font-size: 12px;
         position: absolute;
