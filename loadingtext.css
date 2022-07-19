@@ -11,7 +11,7 @@
     50%{left: 706px;}
     100% {left: -1164px;}
 }
-@media only screen and (max-width: 600px){
+@media (max-width: 600px){
     .partyFrogOS{
         top: 185px;
         left: 12px;
