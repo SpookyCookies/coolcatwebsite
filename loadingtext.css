@@ -11,3 +11,18 @@
     50%{left: 706px;}
     100% {left: -1164px;}
 }
+@media only screen and (max-width: 600px){
+    .partyFrogOS{
+        top: 209px;
+        left: 12px;
+        font-family: 'Comic Sans Ms';
+        font-size: 35px;
+        position: absolute;
+        animation: transition-text 10s;
+    }
+    @keyframes transition-text{
+        0%{animation-delay: 5s;}
+        50%{left: 12px;}
+        100% {left: -700px;}
+    }
+}
